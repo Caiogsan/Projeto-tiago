@@ -1,0 +1,65 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [ "./src/**/*.{js,jsx,ts,tsx}",],
+  theme: {
+    extend: {
+      backgroundImage: {
+        'logo': "url('./img/logo.PNG')",
+        'tiago': "url('./img/imagem1.PNG')",
+        'img1': "url('./img/imagem3.PNG')",
+        'img2': "url('./img/imagem4.PNG')",
+        'img3': "url('./img/imagem5.PNG')",
+        'img4': "url('./img/imagem6.PNG')",
+        'img5': "url('./img/imagem7.PNG')",
+        'img6': "url('./img/imagem8.PNG')",
+        'img7': "url('./img/imagem9.PNG')",
+        'img8': "url('./img/imagem10.PNG')",
+        'img9': "url('./img/imagem11.PNG')",
+        'img10': "url('./img/imagem12.PNG')",
+        'img11': "url('./img/imagem13.PNG')",
+        'img12': "url('./img/imagem14.PNG')",
+        'img13': "url('./img/imagem15.PNG')",
+        'img14': "url('./img/imagem16.PNG')",
+        'img15': "url('./img/imagem17.PNG')",
+        'img16': "url('./img/imagem18.PNG')",
+        'img17': "url('./img/imagem19.PNG')",
+        'img18': "url('./img/imagem20.PNG')",
+        'img19': "url('./img/27.PNG')",
+        'tatu1': "url('./img/img-tatus/1.PNG')",
+        'tatu2': "url('./img/img-tatus/2.PNG')",
+        'tatu3': "url('./img/img-tatus/3.PNG')",
+        'tatu4': "url('./img/img-tatus/4.PNG')",
+        'tatu5': "url('./img/img-tatus/5.PNG')",
+        'tatu6': "url('./img/img-tatus/6.PNG')",
+        'tatu7': "url('./img/img-tatus/7.PNG')",
+        'tatu8': "url('./img/img-tatus/8.PNG')",
+        'tatu9': "url('./img/img-tatus/9.PNG')",
+        'tatu10': "url('./img/img-tatus/10.PNG')",
+        'tatu11': "url('./img/img-tatus/11.PNG')",
+        'tatu12': "url('./img/img-tatus/12.PNG')",
+        'tatu13': "url('./img/img-tatus/13.PNG')",
+        'tatu14': "url('./img/img-tatus/14.PNG')",
+        'tatu15': "url('./img/img-tatus/15.PNG')",
+        'tatu16': "url('./img/img-tatus/16.PNG')",
+        'tatu17': "url('./img/img-tatus/17.PNG')",
+        'tatu18': "url('./img/img-tatus/18.PNG')",
+        'tatu19': "url('./img/img-tatus/19.PNG')",
+        'tatu20': "url('./img/img-tatus/20.PNG')",
+        'tatu21': "url('./img/img-tatus/21.PNG')",
+        'tatu22': "url('./img/img-tatus/22.PNG')",
+        'tatu23': "url('./img/img-tatus/23.PNG')",
+        'tatu24': "url('./img/img-tatus/24.PNG')",
+        'tatu25': "url('./img/img-tatus/25.PNG')",
+        'tatu26': "url('./img/img-tatus/26.PNG')",
+        'tatu27': "url('./img/img-tatus/28.PNG')",
+        
+        
+      },
+      fontFamily: {
+        'principal':'Lobster'
+      }
+    },
+  },
+  plugins: [],
+}
+
