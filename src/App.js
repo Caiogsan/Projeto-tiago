@@ -15,6 +15,7 @@ function App() {
       
       <Routes>
         <Route path='/' exact element={<Home></Home>}></Route>
+        <Route path='/Projeto-tiago' exact element={<Home></Home>}></Route>
         <Route path='/about' exact element={<About></About>}></Route>
         <Route path='/galery' exact element={<Galery></Galery>}></Route>
         <Route path='/feedbacks' exact element={<Feedbacks></Feedbacks>}></Route>

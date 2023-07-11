@@ -1,4 +1,4 @@
-import {FaFacebook, FaInstagram} from 'react-icons/fa'
+
 import Contato from '../layout/Contato'
 
 function Home(){
