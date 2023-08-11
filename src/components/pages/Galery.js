@@ -1,11 +1,11 @@
 function Galery(){
     return (
         <section className="bg-gray-200 pb-6 w-[100%]">
-            <section className="bg-img18 h-[615px] font-principal bg-fixed bg-cover text-end bg-no-repeat">
-                <div className="inline-block text-center pr-24 pt-28">
-                    <h1 className="text-6xl tracking-wide mb-4 text-white">T IAGO</h1>
-                    <h1 className="text-6xl tracking-wide mb-4 text-white">SOBREIRO</h1>
-                    <h1 className="text-6xl tracking-wide text-white">TATOO</h1>    
+            <section className="bg-img18 h-[615px] font-principal pl-12 pt-16 bg-fixed bg-cover flex justify-start bg-no-repeat">
+                <div className="flex gap-10 text-center">
+                    <h1 className="text-8xl tracking-wide mb-4 text-gray-200">T IAGO</h1>
+                    <h1 className="text-8xl tracking-wide mb-4 text-gray-200">SOBREIRO</h1>
+                    <h1 className="text-8xl tracking-wide text-gray-200">TATOO</h1>    
                 </div>
             </section>
             <section>
@@ -13,15 +13,15 @@ function Galery(){
                     <h1 className="font-principal text-3xl">DESENHOS FEITOS Á MÃO</h1>
                 </div>
                 <div className="flex justify-between m-auto h-[600px] w-[90%]">
-                    <div className="rounded bg-img1 border-4 border-black bg-center bg-cover h-full w-[32%]"></div>
-                    <div className="rounded bg-img17 border-4 border-black bg-center bg-cover h-full w-[32%]"></div>
-                    <div className="rounded bg-img2 border-4 border-black bg-center bg-cover h-full w-[32%]"></div>
+                    <div className="rounded bg-img1 border-4 border-black bg-center bg-cover h-full w-[32.5%]"></div>
+                    <div className="rounded bg-img17 border-4 border-black bg-center bg-cover h-full w-[32.5%]"></div>
+                    <div className="rounded bg-img2 border-4 border-black bg-center bg-cover h-full w-[32.5%]"></div>
                 </div>
                 <div className="flex justify-between m-auto mt-4 h-[600px] w-[90%]">
-                    <div class="bg-img3 border-4 border-black bg-no-repeat rounded mr-4 bg-cover inline-block w-[65%]"></div>
-                    <div class="w-[35%] border-4 border-black margin bg-img16 bg-cover rounded"></div>
+                    <div class="bg-img3 border-4 border-black bg-no-repeat rounded mr-4 bg-cover inline-block w-[66.5%]"></div>
+                    <div class="w-[32.5%] border-4 border-black margin bg-img16 bg-cover rounded"></div>
                 </div>
-                <div className="rounded w-[90%] m-auto bg-img4 bg-cover border-4 border-black h-[700px] mt-6"></div>
+                <div className="rounded w-[90%] m-auto bg-img4 bg-cover border-4 border-black h-[700px] mt-4"></div>
                 <div className="flex justify-between m-auto mt-4 h-[600px] w-[90%]">
                     <div class="bg-img14 border-4 border-black bg-no-repeat rounded mr-4 bg-cover inline-block w-[35%]"></div>
                     <div class="w-[65%] border-4 border-black margin bg-img15 bg-cover rounded"></div>

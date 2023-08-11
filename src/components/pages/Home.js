@@ -4,11 +4,11 @@ import Contato from '../layout/Contato'
 function Home(){
     return (
         <div className="bg-gray-200 pb-8">
-            <section className="bg-tiago h-[400px] sm:h-[400px] md:h-[650px] font-principal bg-fixed bg-cover md:bg-[left_top_-130px] lg:bg-[left_top_-260px] sm:bg-[left_top_-80px] text-end bg-no-repeat">
-                <div className="inline-block text-center sm:pr-24 pr-12  sm:pt-16 pt-10">
-                    <h1 className="text-6xl tracking-wide mb-4 text-white">T IAGO</h1>
-                    <h1 className="text-6xl tracking-wide mb-4 text-white">SOBREIRO</h1>
-                    <h1 className="text-6xl tracking-wide text-white">TATOO</h1>    
+            <section className="bg-tiago h-[400px] text-end sm:h-[400px] pl-12 pt-16 md:h-[650px] font-principal bg-fixed bg-cover md:bg-[left_top_-130px] lg:bg-[left_top_-260px] sm:bg-[left_top_-80px] bg-no-repeat">
+                <div className="inline-block text-center pr-40 gap-10">
+                    <h1 className="text-8xl tracking-wide mb-4 text-gray-200">T IAGO</h1>
+                    <h1 className="text-8xl tracking-wide mb-4 text-gray-200">SOBREIRO</h1>
+                    <h1 className="text-8xl tracking-wide text-gray-200">TATOO</h1>    
                 </div>
             </section>
             <section>

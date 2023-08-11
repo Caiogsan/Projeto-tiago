@@ -1,4 +1,4 @@
-import {FaFacebook, FaInstagram} from 'react-icons/fa'
+import { FaFacebook, FaInstagram } from "react-icons/fa"
 
 
 function Contato(){
@@ -25,8 +25,8 @@ function Contato(){
                         <p className="w-[80%] font-semibold m-auto mt-8">La Familia Tattoo & Piercing</p>
                         <div className=" w-[80%] m-auto mt-4 mt-4 sm:mt-8 md:mt-12">
                             <ul className='flex justify-between items-end px-8 sm:px-12 md:px-12 lg:px-16'>
-                                <a target='_blank' rel='noreferrer' href='https://www.instagram.com/tiago_ssf/'><li className='text-2xl md:text-4xl lg:text-5xl hover:text-white duration-300 hover:cursor-pointer'><FaInstagram></FaInstagram></li></a>
-                                <a target='_blank' rel='noreferrer' href='https://www.facebook.com/TiagoSobreiro15' ><li className='text-2xl md:text-4xl lg:text-5xl  hover:text-white duration-300 hover:cursor-pointer'><FaFacebook></FaFacebook></li></a>
+                                <a target='_blank' rel='noreferrer' href='https://www.instagram.com/tiago_ssf/'><li className='text-xl md:text-3xl lg:text-4xl hover:text-rose-700 duration-300 hover:cursor-pointer'><FaInstagram></FaInstagram></li></a>
+                                <a target='_blank' rel='noreferrer' href='https://www.facebook.com/TiagoSobreiro15' ><li className='text-xl md:text-3xl lg:text-4xl  hover:text-blue-800 duration-300 hover:cursor-pointer'><FaFacebook></FaFacebook></li></a>
                             </ul>
                         </div>
                     </div>  
