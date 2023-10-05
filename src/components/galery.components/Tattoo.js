@@ -4,7 +4,7 @@ function Tattoo(){
     return (
         <div>
             <div className="my-12 flex justify-center">
-                    <h1 className="font-principal text-3xl">TATUAGENS</h1>
+                    <h1 className="font-bold text-white text-3xl">TATUAGENS</h1>
                 </div>
                 <ImagesLine stylesLine={"flex justify-between m-auto h-[600px] w-[90%]"} styleImg1={"rounded bg-img6 border-4 border-black bg-center bg-cover h-full w-[32%]"} styleImg2={"rounded bg-img7 border-4 border-black bg-center bg-cover h-full w-[32%]"} styleImg3={"rounded bg-img8 border-4 border-black bg-center bg-cover h-full w-[32%]"}></ImagesLine>
                 <ImagesLine stylesLine={"flex justify-between m-auto mt-6 h-[600px] w-[90%]"} styleImg1={"rounded bg-img9 border-4 border-black bg-center bg-cover h-full w-[32%]"} styleImg2={"rounded bg-img10 border-4 border-black bg-center bg-cover h-full w-[32%]"} styleImg3={"rounded bg-img11 border-4 border-black bg-center bg-cover h-full w-[32%]"} ></ImagesLine>

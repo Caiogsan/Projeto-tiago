@@ -1,6 +1,6 @@
 function About(){
     return (
-        <section className="bg-gray-200 py-12">
+        <section className="bg-gray-700 pt-24 py-12">
             <div className="lg:h-[650px] h-[800px] rounded bg-gray-300 flex flex-col lg:flex-row w-[80%] m-auto">
                     <div className="lg:w-[50%] py-4 h-[50%] lg:h-full border-black border-2 border-l-2 justify-around items-center flex flex-col px-8 lg:px-14 rounded contato">
                         <div className="justify-start flex flex-col items-center">

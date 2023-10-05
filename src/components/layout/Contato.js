@@ -5,12 +5,12 @@ function Contato(){
     return (
         <section>
             <div className="py-12 flex justify-center">
-                    <h1 className="font-principal text-3xl">CONTATO</h1>
+                    <h1 className="font-bold text-white text-3xl">Fale comigo!</h1>
                 </div>
-                <div className="h-[550px] rounded bg-gray-300 flex w-[70%] m-auto">
+                <div className="h-[650px] rounded bg-gray-300 flex w-[70%] m-auto">
                     <div className="w-[50%] rounded border-r-2">
                         
-                        <form className='m-auto flex flex-col justify-between h-full py-8 w-[80%]'>
+                        <form className='m-auto flex flex-col justify-between h-full py-14 w-[80%]'>
                             <h1 className='text-center font-principal text-2xl'>Envie uma mensagem!</h1>
                             <input className='text-sm rounded p-2' type="text" placeholder="Nome"></input>
                             <input className='text-sm rounded p-2' type="email" placeholder="Email"></input>

@@ -4,10 +4,10 @@ import logo from "../../img/logo.PNG"
 
 function Navbar(){
     return (
-        <div className="flex bg-black h-20">
-            <div className="w-[90%] flex m-auto">
+        <div className="absolute bg-transparent h-20 w-[100%] px-12 pt-6 md:px-16 lg:px-20 p-4">
+            <div className="flex justify-between w-[100%]">
                 <div className=" sm:w-[30%] w-[20%] items-center flex">
-                    <Link to={"/Projeto-tiago"}><img className=" h-12" src={logo} alt="Logotipo"></img></Link>
+                    <Link to={"/Projeto-tiago"}><img className="hover:scale-110 duration-300 h-12" src={logo} alt="Logotipo"></img></Link>
                     <a href="https://www.instagram.com/tiago_ssf/" target="__blank" className="text-white hover:text-yellow-400 duration-300 text-xs pt-[20px]">@tiago_ssf</a>
                 </div>
                 <div className="sm:w-[70%] w-[80%] font-principal text-xl flex justify-between text-white  items-center">
