@@ -5,7 +5,7 @@ import MainImg from "../layout/MainImg"
 function Galery(){
     return (
         <section className="bg-gray-700 pb-6 w-[100%]">
-            <MainImg styles={"bg-img18 h-[45rem] bg-fixed bg-no-repeat bg-cover"}></MainImg>
+            <MainImg styles={"bg-img18 h-[60rem] bg-fixed bg-no-repeat bg-cover"}></MainImg>
             <Drawings></Drawings>
             <Tattoo></Tattoo>
         </section>

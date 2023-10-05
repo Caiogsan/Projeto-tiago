@@ -7,7 +7,7 @@ function Contato(){
             <div className="py-12 flex justify-center">
                     <h1 className="font-bold text-white text-3xl">Fale comigo!</h1>
                 </div>
-                <div className="h-[650px] rounded bg-gray-300 flex w-[70%] m-auto">
+                <div className="min-h-[750px] rounded bg-gray-300 flex w-[70%] m-auto">
                     <div className="w-[50%] rounded border-r-2">
                         
                         <form className='m-auto flex flex-col justify-between h-full py-14 w-[80%]'>
