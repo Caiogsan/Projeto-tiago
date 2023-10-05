@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Projeto-tiago/static/css/main.19cbd93d.css",
-    "main.js": "/Projeto-tiago/static/js/main.a8a01e79.js",
+    "main.css": "/Projeto-tiago/static/css/main.fecc5a9a.css",
+    "main.js": "/Projeto-tiago/static/js/main.d989d4f0.js",
     "static/media/imagem16.PNG": "/Projeto-tiago/static/media/imagem16.ea4b4b8ac40489409c57.PNG",
     "static/media/imagem4.PNG": "/Projeto-tiago/static/media/imagem4.b3647f53c1a485c814ce.PNG",
     "static/media/imagem17.PNG": "/Projeto-tiago/static/media/imagem17.c4659b2aec6ae1697c95.PNG",
@@ -48,11 +48,11 @@
     "static/media/imagem1.PNG": "/Projeto-tiago/static/media/imagem1.9422495915057ba3f313.PNG",
     "static/media/logo.PNG": "/Projeto-tiago/static/media/logo.1312cc1ff03261326c56.PNG",
     "index.html": "/Projeto-tiago/index.html",
-    "main.19cbd93d.css.map": "/Projeto-tiago/static/css/main.19cbd93d.css.map",
-    "main.a8a01e79.js.map": "/Projeto-tiago/static/js/main.a8a01e79.js.map"
+    "main.fecc5a9a.css.map": "/Projeto-tiago/static/css/main.fecc5a9a.css.map",
+    "main.d989d4f0.js.map": "/Projeto-tiago/static/js/main.d989d4f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.19cbd93d.css",
-    "static/js/main.a8a01e79.js"
+    "static/css/main.fecc5a9a.css",
+    "static/js/main.d989d4f0.js"
   ]
 }
