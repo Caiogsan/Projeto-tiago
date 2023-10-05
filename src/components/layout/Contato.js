@@ -7,7 +7,7 @@ function Contato(){
             <div className="py-12 flex justify-center">
                     <h1 className="font-bold text-white text-3xl">Fale comigo!</h1>
                 </div>
-                <div className=" rounded sm:h-[40rem] bg-gray-300 flex flex-col sm:flex-row w-[70%] m-auto">
+                <div className=" rounded sm:h-[50rem] bg-gray-300 flex flex-col sm:flex-row w-[70%] m-auto">
                     <div className="sm:w-[50%] rounded border-b-2 sm:border-r-2">
                         
                         <form className='m-auto flex flex-col justify-between h-[30rem] sm:h-full py-8 sm:py-14 w-[80%]'>
@@ -19,7 +19,7 @@ function Contato(){
                             <button type="submit" className='text-sm rounded hover:bg-yellow-400 duration-300 p-2 bg-red-500'>Enviar!</button>
                         </form>
                     </div>
-                    <div className="sm:w-[50%] h-[30rem] sm:h-full border-black border-t-2 sm:border-l-2 sm:border-t-0 flex flex-col py-4  sm:py-8 rounded contato">
+                    <div className="sm:w-[50%] h-[30rem] sm:h-full border-black border-t-2 sm:border-l-2 sm:border-t-0 flex flex-col py-4  sm:py-8 rounded">
                         <iframe className="w-[80%] rounded h-[150px] sm:h-[220px] m-auto" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3688.1396823318096!2d-45.454183925063205!3d-22.423767820786498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cb7ca924f3c873%3A0x734498cb7b5cb7d3!2sLa%20Familia%20Tattoo%20%26%20piercing!5e0!3m2!1sen!2sbr!4v1687022618499!5m2!1sen!2sbr" title="maps" width="600" height="450" loading="lazy"></iframe>
                         <p className="w-[80%] text-center font-semibold m-auto sm:mt-12">Rua Dr Américo de Oliveira 623, centro, Itajubá Mg, 37.500-061</p>
                         <p className="w-[80%] text-center font-semibold m-auto sm:mt-8">La Familia Tattoo & Piercing</p>
